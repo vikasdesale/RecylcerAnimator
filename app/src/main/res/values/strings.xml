@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">RecyclerAnimator</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="Next">next</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="drawer_open">Drawer_Open</string>
+    <string name="drawer_close">Drawer_Close</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="title_activity_sliding_tab_layout">SlidingTabLayout</string>
+    <string name="title_activity_activity_using_tab_layout_library">ActivityUsingTabLayoutLibrary
+    </string>
+    <string name="errorTimeout">Time Out...Please Check Speed</string>
+    <string name="networkError">No Internet Connection</string>
+    <string name="serverError">Please...Try After Some Time</string>
+    <string name="parseError">Try Again</string>
+    <string name="add_item">Add Item</string>
+
+    <string name="authError">Try Again</string>
+    <string-array name="tabs">
+        <item>Gate/Engineering</item>
+        <item>Mpsc/Upsc</item>
+        <item>1-12 Class</item>
+        <item>Poems</item>
+        <item>Novels</item>
+        <item>Others</item>
+    </string-array>
+    <string name="title_activity_activity_recyler_animators">ActivityRecylerAnimators</string>
+</resources>
